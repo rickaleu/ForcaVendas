@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Splash -->
+    <string name="splash_title">SPLASH</string>
+    <string name="app_name">Força de Vendas</string>
+
+    <!-- Login -->
+    <string name="title_activity_login">Login</string>
+    <string name="login_title">Força de Vendas</string>
+    <string name="login_hint_code">Digite seu código</string>
+    <string name="login_hint_password">Digite sua senha</string>
+    <string name="login_button">Conectar</string>
+
+    <!-- Feed -->
+    <string name="title_activity_feed">Feed</string>
+    <string name="title_container">Atenção Supevisoras</string>
+    <string name="title_container_id">543</string>
+    <string name="title_container_date">27/01/2015</string>
+    <string name="main_container">Após um longo período de reformulação, finalmente estamos com a seção de Comunicados Eudora no ar novamente.</string>
+    <string name="text_message_nolist">Não há comunicados para você.</string>
+    <string name="text_message_feedListTextLoading">Conectando com o servidor...</string>
+    <string name="text_message_firstAccess">Não há comunicados novos para você.</string>
+    <string name="text_button_loadmore"><b>CARREGAR MAIS</b></string>
+
+    <!-- Menu -->
+    <string name="menu_settings">Configurações</string>
+
+    <!-- Settings -->
+    <string name="title_activity_settings">Configurações</string>
+    <string name="option_push">Receber notificações</string>
+    <string name="option_title_about">Sobre</string>
+    <string name="option_about">Versão 1.0.2</string>
+    <string name="option_exit">Sair</string>
+
+    <!-- Home -->
+    <string name="title_activity_home">Força de Vendas</string>
+    <string name="title_section1">Comunicados</string>
+    <string name="title_section2">Revendas</string>
+    <string name="title_section3">...</string>
+
+    <!-- Feed Detail -->
+    <string name="title_activity_feed_detail">Comunicado</string>
+    <string name="feed_detail_title">DETALHE DO COMUNICADO</string>
+    <string name="hello_blank_fragment2">Hello blank fragment2</string>
+    <string name="hello_blank_fragment3">Hello blank fragment3</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+
+
+</resources>

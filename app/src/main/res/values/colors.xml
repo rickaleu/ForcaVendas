@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Action Bar / Tab Bar -->
+    <color name="primaryColor">#b22664</color>
+    <color name="primaryColorDark">#8c0a3e</color>
+    <color name="accentColor">#d4c8cc</color>
+
+    <!-- Settings -->
+    <color name="divLine">#999999</color>
+
+    <!-- Login -->
+    <color name="textColor">#a2a2a2</color>
+    <color name="hintColor">#a2a2a2</color>
+    <color name="titleColor">#d4c8cc</color>
+
+    <!-- Transparent ListView -->
+    <color name="translucentBlack">#80000000</color>
+
+
+</resources>

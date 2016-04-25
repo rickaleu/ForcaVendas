@@ -1,0 +1,94 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppTheme.Base">
+        <!-- Customize your theme here. -->
+
+    </style>
+
+    <!-- ActionBar -->
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryColorDark</item>
+        <item name="colorAccent">@color/accentColor</item>
+        <item name="android:actionBarDivider">@color/accentColor</item>
+        <item name="android:dividerPadding">1dp</item>
+
+    </style>
+
+    <style name="avatar" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="android:drawable">@drawable/bg_general</item>
+
+    </style>
+
+    <!-- Login -->
+    <style name="TitleLogin" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="android:textColor">@color/titleColor</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+
+    </style>
+
+    <style name="ButtonLogin" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">18sp</item>
+
+    </style>
+
+    <!-- FeedDetail -->
+    <style name="FontsTitle" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="android:textColor">#555555</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+    <style name="FontsMain" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">15sp</item>
+
+    </style>
+
+    <!-- FeedList -->
+    <style name="FontsTitleList" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+    <style name="FontsDateList" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="android:textColor">@color/primaryColor</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">12sp</item>
+
+    </style>
+
+    <style name="MessageDateReaded" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="android:textColor">#555555</item>
+        <item name="android:textSize">12sp</item>
+
+    </style>
+
+    <style name="MessageTitleReaded" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="android:textColor">#555555</item>
+        <item name="android:textSize">12sp</item>
+
+    </style>
+
+    <!-- Settings -->
+
+
+
+
+</resources>

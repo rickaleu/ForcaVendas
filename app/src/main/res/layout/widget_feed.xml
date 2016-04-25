@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="2dp">
+
+    <LinearLayout
+        android:id="@+id/feed_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/general_container"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@+id/feed_text_date"
+            android:text="@string/title_container_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/FontsDateList"/>
+
+        <TextView
+            android:id="@+id/feed_text_title"
+            android:text="@string/title_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/FontsTitleList"/>
+
+    </LinearLayout>
+
+</LinearLayout>
